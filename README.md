@@ -1,7 +1,7 @@
 # covidanalysismetrics
-This is the work of a three-person group project for CIS 1050 at UPenn. This project looks at health, economic, and educational factors across three different countries, including some pre-and post- Covid analysis.
+This is the work of a three-person group project for CIS 1050 at UPenn. This project looks at three World Development Indicators (health, economic, and educational focuses) across three different countries, including some pre-and post- Covid analysis.
 
-This project includes three-dimensional analysis which involved the employment of data cleaning, bootstrapping, permutation testing, data visualizations, linear regression, cross validation (via Leave-One-Out method), residual sum of squares (RSS) and six total hypothesis tests. 
+This project includes three-dimensional analysis which involved the employment of data cleaning, bootstrapping, permutation testing, data visualizations, linear regression, cross validation (via Leave-One-Out method), residual sum of squares (RSS) and six total hypothesis tests. All of this data is sourced from a Kaggle dataset that is also attached as a cvs file. 
 
 The main conclusions made from this data are as follows:
 
