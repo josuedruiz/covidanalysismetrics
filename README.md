@@ -1,7 +1,11 @@
 # covidanalysismetrics
 This is the work of a three-person group project for CIS 1050 at UPenn. This project looks at three World Development Indicators (health, economic, and educational focuses) across three different countries, including some pre-and post- Covid analysis.
 
-This project includes three-dimensional analysis which involved the employment of data cleaning, bootstrapping, permutation testing, data visualizations, linear regression, cross validation (via Leave-One-Out method), residual sum of squares (RSS) and six total hypothesis tests. All of this data is sourced from a Kaggle dataset that is also attached as a cvs file. 
+This project includes three-dimensional analysis which involved the employment of data cleaning, bootstrapping, permutation testing, data visualizations, linear regression, cross validation (via Leave-One-Out method), residual sum of squares (RSS) and six total hypothesis tests. All of this data is sourced from a Kaggle dataset that is also attached as a cvs file.
+
+To Download Kaggle Dataset: https://www.kaggle.com/datasets/parsabahramsari/wdi-education-health-and-employment-2011-2021?resource=download
+
+This dataset includes 10 years of information on the educational, economic, and health trends across multiple countries.
 
 The main conclusions made from this data are as follows:
 
